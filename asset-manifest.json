@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopping_cart/static/css/main.1ea5a1ae.css",
+    "main.js": "/shopping_cart/static/js/main.1f280b1a.js",
+    "static/js/453.f32d08a2.chunk.js": "/shopping_cart/static/js/453.f32d08a2.chunk.js",
+    "static/media/poco.jpg.webp": "/shopping_cart/static/media/poco.jpg.d417c3e9faf429585772.webp",
+    "static/media/oneplus.jpg.webp": "/shopping_cart/static/media/oneplus.jpg.0d575cbf9a5d0d32d69d.webp",
+    "static/media/realme.jpg.jpeg": "/shopping_cart/static/media/realme.jpg.f3de7c6837b06afbe9ef.jpeg",
+    "static/media/samsung.jpg.webp": "/shopping_cart/static/media/samsung.jpg.e290ce5dd323930e6fb1.webp",
+    "static/media/nokia.jpg.webp": "/shopping_cart/static/media/nokia.jpg.a942f387a7a918cd8244.webp",
+    "static/media/iphone.jpg.webp": "/shopping_cart/static/media/iphone.jpg.df11940f65f21eece49b.webp",
+    "index.html": "/shopping_cart/index.html",
+    "main.1ea5a1ae.css.map": "/shopping_cart/static/css/main.1ea5a1ae.css.map",
+    "main.1f280b1a.js.map": "/shopping_cart/static/js/main.1f280b1a.js.map",
+    "453.f32d08a2.chunk.js.map": "/shopping_cart/static/js/453.f32d08a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea5a1ae.css",
+    "static/js/main.1f280b1a.js"
+  ]
+}
